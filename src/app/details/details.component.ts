@@ -10,8 +10,7 @@ import { CommonModule } from '@angular/common';
       details works!
     </p>
   `,
-  styleUrl: './details.component.css'
+  styleUrls: ['./details.component.css'],
 })
 export class DetailsComponent {
-
 }
